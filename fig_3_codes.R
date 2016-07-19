@@ -1,3 +1,4 @@
+# Creating a boxplot for figure 3 revisions
 setwd("C:\\Users\\adminuser\\Desktop\\EVERYTHING THOMAS\\Chapter 2\\Revisions info")
 # renaming data
 dat <-read.csv("01revisions all data.csv")
